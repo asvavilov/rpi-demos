@@ -1,0 +1,27 @@
+Item specifics
+Condition:	
+New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller's listing for full details. See all condition definitions
+Brand:	
+Sintron
+LCD Display:	
+lcd2004
+Model:	
+Raspberry Pi
+Relay:	
+5V
+Package Weight:	
+350g
+Buzzer:	
+Active
+Resistors:	
+220 x8, 1k x5, 10k x5, 100k x5, 1M x5, 5.1M x5
+Diodes:	
+Rectifier x2, Switching x1
+LEDs:	
+RGB LED x1, Red LED x2, Green LED x2,Yellow LED x2
+Push Button:	
+6x6x4.3 mm
+Cables:	
+USB x1, GPIO Ribbon Cable x1,Jumper Cable Wires x1
+Breadboard:	
+400 Tie Points

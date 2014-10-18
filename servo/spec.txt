@@ -1,0 +1,5 @@
+0.5 - 1.5 - 2.5 ms (0 - neutral - 180 deg)
+
+pin 6 - brown
+pin 2 - red
+pin 7 - yellow
